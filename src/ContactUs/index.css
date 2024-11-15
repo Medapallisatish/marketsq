@@ -1,0 +1,25 @@
+.about-button{
+    background-color: #24a0ed;;
+    width:105px;
+    height:35px;
+    border-style:none;
+    border-radius:6px;
+    color:white;
+    font-family: Verdana;
+    cursor: pointer;
+    margin-top:8px;
+    font-size:18px
+
+  }
+
+  .about-container{
+    background-color: rgb(245, 231, 211);
+    font-family: "verdana";
+    padding:45px;
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    height:45vh
+
+  }
+ 

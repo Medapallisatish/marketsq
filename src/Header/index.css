@@ -1,0 +1,33 @@
+*{
+    font-family: Verdana;
+}
+
+.navbar-brand{
+    color:Black;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: larger;
+
+}
+.container-fluid{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.navbar-nav{
+    display:flex;
+    flex-direction:row;
+    list-style:none;
+}
+.navbar{
+    padding:20px;
+}
+.nav-item{
+    margin-left:20px;
+
+}
+.nav-link{
+    text-decoration: none;
+    color:black;
+    font-size:medium
+}
